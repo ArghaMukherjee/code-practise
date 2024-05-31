@@ -1,0 +1,3 @@
+Hello, world!
+This is a sample output text file.
+This line is appended to the file.
