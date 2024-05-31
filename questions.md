@@ -1,4 +1,6 @@
-Sure! Here are 50 Python interview questions suitable for freshers:
+"""
+Python Interview Questions 
+"""
 
 ### Basic Questions
 1. What is Python? What are the benefits of using Python?
