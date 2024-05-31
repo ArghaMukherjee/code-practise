@@ -1,4 +1,4 @@
-Certainly! Here are the answers and detailed explanations for each question, tailored for someone from a non-technical background.
+## Python Basic Interview Questions with Solutions
 
 ### Basic Questions
 1. **What is Python? What are the benefits of using Python?**
