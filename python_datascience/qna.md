@@ -1,4 +1,4 @@
-Python interview questions specifically tailored for data science roles. These questions cover various aspects of data science, including data manipulation, statistical analysis, machine learning, and data visualization.
+Python interview questions specifically tailored for data science roles. These questions cover various aspects of data science, including data manipulation, statistical analysis, machine learning, and data visualization.These questions are as per latest requirements.
 
 ### Basic Python Questions for Data Science
 
