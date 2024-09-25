@@ -135,4 +135,3 @@
 
 ### 50. **Explain the `volatile` and `transient` keywords in Java.**
 
-These questions cover core Java concepts as well as key areas of full-stack development for freshers. Preparing these will give you a strong foundation for interviews in full-stack development.
